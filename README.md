@@ -2,6 +2,7 @@
 
 ### Structure
 
+"""
 awesomeProject/
 │
 ├── main.go
@@ -12,6 +13,8 @@ awesomeProject/
 ├── controllers/
 │   └── todo_controller.go
 └── go.mod
+"""
+
 
 ### Description
 
